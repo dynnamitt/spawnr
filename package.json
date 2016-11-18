@@ -1,0 +1,14 @@
+{
+  "name": "spawnr",
+  "version": "1.0.0",
+  "description": "playtime",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "childproc"
+  ],
+  "author": "dynnamitt",
+  "license": "ISC"
+}
