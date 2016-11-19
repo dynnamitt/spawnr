@@ -10,5 +10,8 @@
     "childproc"
   ],
   "author": "dynnamitt",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.4"
+  }
 }

@@ -1,20 +1,25 @@
 execFile = (require 'child_process').execFile
+koa = require 'koa'
 
 
+port = process.env.PORT or 3000
 
-child = execFile '/usr/bin/env' , ['hxnormalize', '-e']
+app = koa()
 
-child.stdout.on 'data' , (data) ->
-  console.log "*",data
+app.use (next) ->
+  this.child = execFile 'hxnormalize', ['-e']
+  yield next
 
-child.on 'close' , (code) ->
-  console.log "closing code:",code
+app.use ->
+  
+  this.req.on 'data', (d) ->
+    console.log ">IN> ",d.toString()
 
-child.stdin.write "<h1>hei sexy"
-child.stdin.write "<p>hei sexy"
-child.stdin.end()
+  this.req.pipe this.child.stdin
+  this.body = this.child.stdout
+  # child.stdin.end()
 
-# child.stdin.write "<dd>hei sexy"
-# child.stdin.end()
+  yield return
 
-console.log "init done."
+app.listen port
+console.log "Listening on #{port}"
