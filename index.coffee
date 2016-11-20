@@ -17,6 +17,8 @@ app.use (next) ->
   hxNorm.on 'error', (err) ->
     console.error "hxNorn ERR:",err.message
     hxNorm.push null
+  hxNorm.on 'data', (d) ->
+    console.log 'd len',d.length
   hxNorm.on 'exit', (code,signal) ->
     console.log 'child',code,signal
 
