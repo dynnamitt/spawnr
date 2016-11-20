@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:epvoc="http://idpf.org/epub/vocab/structure/"
+      xmlns:dsct="http://readin.no/epub/custom-type/#"
+      xmlns:z3998="http://www.daisy.org/z3998/2012/vocab/structure/#"
+      xmlns:epub="http://www.idpf.org/2007/ops"
+      epub:prefix="dsct: http://readin.no/epub/custom-type/#             dsg: http://readin.no/epub/generic/#             z3998: http://www.daisy.org/z3998/2012/vocab/structure/#             toc: http://readin.no/epub/toc#">
+   <head>
+      <meta charset="utf-8"/>
+      <title/>
+      <link href="../rc/flow.css" rel="stylesheet" type="text/css"/>
+   </head>
+   <body class="epub_chunk">
+      <section epub:type="chapter" class="duo-splitter" dir="ltr">
+         <h1 id="be2010121313030637d1e3" dir="ltr">§ 15-5. Generelle krav til innvendige vann- og avløpsinstallasjoner</h1>
+         <p dir="ltr"> 
+            <a class="internlink"
+               rel="subsection"
+               href="#be2010121313030637d1e18"
+               dir="ltr"> (1)</a> Innvendige vann- og avløpsinstallasjoner skal prosjekteres og utføres slik at god hygiene og helse blir ivaretatt, at vannkvaliteten ikke forringes og slik at avløpsvann bortledes i takt med tilført vannmengde.</p>
+         <p dir="ltr"> 
+            <a class="internlink"
+               rel="subsection"
+               href="#be2011119153536457d1e175"
+               dir="ltr"> (2)</a> Installasjon skal gi de ytelser som er forutsatt, tåle de indre og ytre belastninger som kan forekomme og ha tilstrekkelig tetthet mot lekkasje. Festeanordning skal tåle forutsatt belastning.</p>
+         <p dir="ltr"> 
+            <a class="internlink"
+               rel="subsection"
+               href="#be2011119153536457d1e209"
+               dir="ltr"> (3)</a> Installasjon skal tilrettelegges for høy driftssikkerhet og for effektiv drift og vedlikehold.</p>
+         <p dir="ltr"> 
+            <a class="internlink"
+               rel="subsection"
+               href="#be2011119153536457d1e218"
+               dir="ltr"> (4)</a> Materialer skal ha tilfredsstillende bestandighet mot termiske, mekaniske og kjemiske påvirkninger. </p>
+         <p dir="ltr"> 
+            <a class="internlink"
+               rel="subsection"
+               href="#be2011119153536457d1e228"
+               dir="ltr"> (5)</a> Installasjon skal sikres mot frost. </p>
+         <section class="bottom-pane scroll-pane et+footnotes" dir="ltr"> 
+            <h1 id="be201012138407091d1f26" dir="ltr">Veiledning</h1> 
+            <h1 id="be2010121313030637d1e18" dir="ltr">Til første ledd</h1> 
+            <p dir="ltr"> Bestemmelsen er hjemlet i <a class="eksternlink"
+                  href="http://www.lovdata.no/all/tl-20080627-071-038.html#29-6"
+                  target="_blank"
+                  dir="ltr">pbl. § 29-6</a>. </p> 
+            <p dir="ltr"> Vanninstallasjoner omfatter alle innvendige rørledninger for forbruksvann samt installasjoner og utstyr som er fast tilknyttet ledningsnettet og som inngår som en del av byggverkets drift, herunder utvendig tappested. Sprinkleranlegg og andre slokkeinstallasjoner som er en forlengelse av de ordinære vanninstallasjonene og utført med tilsvarende produkter som disse, omfattes av dette kapitlet i den grad det er relevant. Unntak er prosessinstallasjoner, det vil si installasjoner som ikke regnes som bygningstekniske installasjoner og som ikke er nødvendig for byggverkets drift. </p> 
+            <p dir="ltr"> Avløpsinstallasjoner omfatter installasjon i eller i umiddelbar tilknytning til bygning, herunder taknedløp og avløpsledning. Avløpsinstallasjonen skal være dimensjonert for å ta imot tilført vannmengde. For bortledning av tilført vannmengde eller avstengning av vanntilførsel, se byggteknisk forskrift <a class="internlink"
+                  rel="subsection"
+                  href="be2010121383952087d1e8.xhtml"
+                  dir="ltr">§ 13-20</a>. </p> 
+            <p dir="ltr"> For å sikre god hygiene i vannledningsnettet må det anvendes dokumenterte produkter, i henhold til krav som følger av <a class="internlink"
+                  rel="subsection"
+                  href="be2010121383910537d1e11.xhtml"
+                  dir="ltr"> forskrift om omsetning og dokumentasjon av byggevarer</a> . Eksempler på dokumenterte produkter kan være armaturer testet i henhold til <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=347257"
+                  target="_blank"
+                  dir="ltr"> NS-EN-817 Sanitær tappearmatur – Mekaniske blandere (PN 10) – Generelle tekniske krav</a> , <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=136056"
+                  target="_blank"
+                  dir="ltr"> NS-EN 1111 Sanitær tappearmatur – Termostatbatterier (PN 10) – Generelle tekniske krav</a> 
+               <span class="kursiv" dir="ltr"/> og produkter som oppfyller NKB produktregler 4. </p> 
+            <p dir="ltr"> Legionellabakterier som er vanlige i naturen kan også formere seg i vanninstallasjoner hvor vekstvilkårene er mer optimale. Det er viktig å forebygge vekst og spredning gjennom riktig prosjektering og drift av installasjonen. </p> 
+            <p dir="ltr"> Optimal veksttemperatur for legionellabakterien er 37 °C, men den formerer seg bra mellom 20 °C og 45 °C og kan også formere seg langsomt ved lavere temperatur. Ved temperatur over 60 °C dør bakterien i løpet av noen minutter. Spredning av bakterien skjer oftest ved forstøvet vann og forekommer oftest på sensommer og høst. Eksempler på installasjoner hvor forholdene kan være gunstig for bakterien: </p> 
+            <ul dir="ltr">
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> kjøletårn </p> 
+               </li>
+            </ul> 
+            <ul dir="ltr">
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> tappeutstyr med filter hvor slam og partikler samles</p> 
+               </li>
+            </ul> 
+            <ul dir="ltr">
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> dusjrør og slanger hvor dusjvann kan bli stående lenge og hvor temperaturforholdene er gunstige for vekst</p> 
+               </li>
+            </ul> 
+            <ul dir="ltr">
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> vannsparende dusjhoder som produserer aerosoler</p> 
+               </li>
+            </ul> 
+            <ul dir="ltr">
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> luftfuktere</p> 
+               </li>
+            </ul> 
+            <ul dir="ltr">
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> boblebadekar</p> 
+               </li>
+            </ul> 
+            <h4 id="be2011119153536457d1e136" dir="ltr"> Anbefalinger</h4> 
+            <p dir="ltr"> For å hindre vekst og spredning av legionellabakterien bør det treffes visse sikkerhetstiltak: </p> 
+            <ul dir="ltr">
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> Varmtvann i sirkulerende system bør holde minimum 65 °C.</p> 
+               </li>
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> Enkelte plastmaterialer utgjør næring for bakteriene og bør unngås.</p> 
+               </li>
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> Røranlegget dimensjoneres slik at installasjonen har normal vannhastighet for den enkelte rørdimensjon.</p> 
+               </li>
+            </ul> 
+            <h1 id="be2011119153536457d1e175" dir="ltr"> Til annet ledd</h1> 
+            <p dir="ltr"> Ekspansjonskrefter må ikke medføre skade på rørledningssystemet eller bygningsdel. Ved montering av rørledninger må det tas hensyn til materialets temperaturutvidelse. Ved innstøping må fri bevegelse av hele ledningen sikres, for eksempel ved at ledningen omsluttes av myk isolasjon. For sprinkleranlegg se også veiledningen til<a target="_blank"
+                  rel="resource"
+                  href="http://localhost:8080/dxp/static/content/TEK/be2010121383918633d1e56"
+                  dir="ltr"> § 11-12 første ledd</a> .</p> 
+            <p dir="ltr"> Ved fare for støy, skadelige vibrasjoner eller trykkstøt, må det monteres støy- og/eller vibrasjonsdempende utstyr. Forankring må kunne oppta trykkstøt. Innfesting av installasjonen må tåle den vekt og de bevegelser som kan oppstå. Til forskjellig underlag må det benyttes anbefalt forankring, se produktdokumentasjon for produktene. </p> 
+            <p dir="ltr"> Ved installasjon av automatisk slokkeanlegg (sprinkler), jf. byggteknisk forskrift <a class="internlink"
+                  rel="subsection"
+                  href="be2010121383918633d1e8.xhtml"
+                  dir="ltr">§ 11-12 første ledd</a>, må påkobling av dette gjøres før montasjepunkt for sentral lekkasjestopper for å unngå at vanntilførsel ved brann stopper opp, jf. byggteknisk forskrift <a class="eksternlink"
+                  href="http://byggeregler.dibk.no/dxp/content/tekniskekrav/13/20/"
+                  target="_blank"
+                  dir="ltr">§ 13-20</a>. Installeres sprinkleranlegg må vannforsyningen prosjekteres i forhold til dokumentert behov. </p> 
+            <p dir="ltr"> Avløpsledninger må foruten å være tette mot innvendig trykk, også holde tett mot utvendig væsketrykk. For tetthetsprøving vises til <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=139959"
+                  target="_blank"
+                  dir="ltr"> NS-EN 1610 Utførelse og prøving av avløpsledninger</a> . Avløpsinstallasjonen må utføres slik at fremtidige driftsforstyrrelser i avløpsnettet ikke fører til lekkasjer på avløpsledninger under lavest beliggende avløpsåpning. Om nødvendig forsynes avløpsinstallasjonen med effektive forankringer.<a class="eksternlink" href="" target="_blank" dir="ltr"/> 
+            </p> 
+            <h4 id="be2011119153536457d1e187" dir="ltr"> Preaksepterte ytelser</h4> 
+            <p dir="ltr"> Kravet om tetthet anses oppfylt for vannforsyningsinstallasjon dersom installasjonen er tett når rørledningene settes under et trykk på minimum 1 MPa (100 m VS), dog minimum 0,1 MPa (10 m VS) høyere enn det størst forekommende driftstrykk. For tetthetsprøving vises til <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=142397"
+                  target="_blank"
+                  dir="ltr"> NS-EN 713 Rørledninger av plast – Mekaniske skjøter mellom rørdeler og trykkrør av polyolefiner – Metode for tetthetsprøving under innvendig trykk og bøying</a> 
+               <span class="kursiv" dir="ltr"> , </span> 
+               <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=142404"
+                  target="_blank"
+                  dir="ltr"> NS-EN 715 Rørledninger av termoplast – Mekaniske og limte skjøter mellom trykkrør og rørdeler – Metode for tetthetsprøving ved innvendig vanntrykk og aksial motkraft</a> 
+               <span class="kursiv" dir="ltr"> , </span> 
+               <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=142400"
+                  target="_blank"
+                  dir="ltr"> NS-EN 714 Rørledninger av termoplast – Skjøter med elastomeriske tetningsringer mellom trykkrør og sprøytestøpte rørdeler – Metode for tetthetsprøving ved hydrostatisk innvendig trykk uten aksial motkraft</a> 
+               <span class="kursiv" dir="ltr"> og </span> 
+               <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=142853"
+                  target="_blank"
+                  dir="ltr"> NS-EN 911 Rørledninger av plast - Skjøter med elastomeriske tetningsringer og mekaniske skjøter for trykkledninger av termoplast - Metode for tetthetsprøving ved hydrostatisk utvendig trykk</a> 
+               <span class="kursiv" dir="ltr"> .</span> Sprinkleranlegg tetthetsprøves etter hhv.<span class="kursiv" dir="ltr"/> 
+               <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=648794"
+                  target="_blank"
+                  dir="ltr"> NS INSTA 900-1 Boligsprinkler – Del 1: Dimensjonering, installering og vedlikehold</a> 
+               <span class="kursiv" dir="ltr"> og </span> 
+               <a class="eksternlink"
+                  href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=403532"
+                  target="_blank"
+                  dir="ltr"> NS-EN 12845 Faste brannslokkesystemer – Automatiske sprinklersystemer – Dimensjonering, installering og vedlikehold</a> 
+               <span class="kursiv" dir="ltr"> .</span> 
+            </p> 
+            <h1 id="be2011119153536457d1e209" dir="ltr"> Til tredje ledd</h1> 
+            <p dir="ltr"> Komponenter som benyttes til vann- og avløpsinstallasjoner må være egnet til formålet. Benyttes forskjellige fabrikater må disse passe sammen. Tildragningsmomenter, toleranse og bruksområde må være i overensstemmelse med produktdokumentasjon. Installasjonen må være montert på en slik måte at det er enkelt å utføre vedlikehold og utskiftninger. </p> 
+            <h1 id="be2011119153536457d1e218" dir="ltr"> Til fjerde ledd</h1> 
+            <p dir="ltr"> Materialer som anvendes i vann- og avløpsinstallasjoner må være tilpasset de indre og ytre termiske, mekaniske og kjemiske påvirkninger de kan bli utsatt for. Dette gjelder ved variasjoner i vanntrykk og vannkvalitet samt ytre påvirkninger fra omkringliggende forurensningskilder og bygningsdeler. Eksempler kan være korrosjon eller forkalkninger på eller i installasjonen.</p> 
+            <h1 id="be2011119153536457d1e228" dir="ltr"> Til femte ledd </h1> 
+            <p dir="ltr"> Frostsikring av installasjonen kan oppnås ved å isolere ledningene og/eller sørge for varmetilførsel, for eksempel med varmekabel hvor isolering er vanskelig. </p> 
+            <p dir="ltr"> Det er viktig å legge ledningsnettet på en slik måte at frostpåkjenning unngås. Dette gjelder spesielt ved innføring av ledningen til bygningen og fremføring gjennom kalde rom eller områder utsatt for kuldegjennomslag. Installasjonen må være enkel å tømme for vann ved lengre tids fravær. Systemer for vannbåren varme må sikres mot frostskader. For frostsikring av sprinkleranlegg, se NS-EN 12845 under henvisninger nedenfor.</p> 
+            <h1 id="be2011131442582869950" dir="ltr"> Henvisninger</h1> 
+            <ul dir="ltr">
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> 
+                     <a class="eksternlink"
+                        href="http://byggeregler.dibk.no/cms/content/uploads/2003HO-1-Legionella.pdf"
+                        target="_blank"
+                        dir="ltr"> Temaveileder HO-1/2003 Inneklima og legionella</a> , Statens bygningstekniske etat</p> 
+               </li>
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> 
+                     <a class="eksternlink"
+                        href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=403532"
+                        target="_blank"
+                        dir="ltr"> NS-EN 12845 Faste brannslokkesystemer – automatiske sprinklersystemer – dimensjonering, installering, vedlikehold</a> 
+                  </p> 
+               </li>
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> 
+                     <a class="eksternlink"
+                        href="http://www.standard.no/no/Sok-og-kjop/produktkatalogen/Produktpresentasjon/?ProductID=648794"
+                        target="_blank"
+                        dir="ltr"> NS-INSTA 900 Boligsprinkler</a> 
+                  </p> 
+               </li>
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> Drikkevannsdirektivet 98/83/EC</p> 
+               </li>
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> NKB produktregler nr. 4, Nordisk komite for bygningsbestemmelser</p> 
+               </li>
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> 
+                     <a class="eksternlink"
+                        href="http://www.standard.no/no/Sok-og-kjop/Standardsamlinger/?ProdCat=5637145836"
+                        target="_blank"
+                        dir="ltr"> Utvalg av referansestandarder fra Standard Norge</a> 
+                  </p> 
+               </li>
+               <li class="punkt" dir="ltr"> 
+                  <p dir="ltr"> 
+                     <a class="eksternlink"
+                        href="http://bks.byggforsk.no/DocumentView.aspx?documentId=3587"
+                        target="_blank"
+                        dir="ltr"> Anvisninger i Byggforskserien fra SINTEF Byggforsk</a> 
+                  </p> 
+               </li>
+            </ul> 
+            <div class="endring" dir="ltr"> 
+               <h1 id="be2011122102738647801" dir="ltr"> Endringshistorikk</h1> 
+               <p dir="ltr"> 01.01.12 Til annet ledd: Henvisning for sprinkleranlegg til § 11-12 lagt til i første avsnitt.</p> 
+               <p dir="ltr"> 01.10.12 Presisering om trykkstøt og tetthetsprøving. Satt inn henvisning til standarder. Generelt mindre presiseringer. </p> 
+               <p dir="ltr"> 01.10.13 Redaksjonell endring.</p> 
+               <p dir="ltr"> 01.01.14. Administrativ endring.</p> 
+            </div> 
+         </section>
+      </section>
+   </body>
+</html>
