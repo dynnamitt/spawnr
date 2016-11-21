@@ -17,10 +17,6 @@ app.use (next) ->
   hxNorm.on 'error', (err) ->
     console.error "hxNorn ERR:",err.message
     hxNorm.push null
-  hxNorm.on 'data', (d) ->
-    console.log 'd len',d.length
-  hxNorm.on 'exit', (code,signal) ->
-    console.log 'child',code,signal
 
   yield next
   console.log "back at proc init"
@@ -28,12 +24,6 @@ app.use (next) ->
 # MAN HANDLER
 app.use ->
   this.body = this.req.pipe this.hxNorm
-  # _ this.req.pipe 
-  #  .through this.hxNorm
-  #  .pipe this.res
-  #  .errors (err,push) ->
-  #    console.error "ERROR in Stream:",err
-  #    push err
   yield return
 
 
