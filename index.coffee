@@ -10,6 +10,8 @@ app = koa()
 app.use (next) ->
 
   # TODO grab from pool or STUFF
+  # TODO or never use java :))
+  #   think saxon-C vs saxonJ
   this.hxNorm = hxNorm = spawn 'hxnormalize', ['-e']
 
   hxNorm.on 'error', (err) ->
@@ -17,7 +19,7 @@ app.use (next) ->
     hxNorm.push null
 
   hxNorm.on 'exit', (code,signal) ->
-    console.log 'child',code,signal
+    console.log 'child exit code:',code,signal
 
   yield next
   console.log "back at proc init"
@@ -28,7 +30,6 @@ app.use ->
   yield return
 
 # TODO spawn more duplexes based on URI
-
 
 
 app.listen port
