@@ -1,6 +1,4 @@
-fs = require "fs"
 koa = require 'koa'
-_ = require 'highland'
 {spawn} = require 'duplex-child-process'
 
 
@@ -8,17 +6,16 @@ port = process.env.PORT or 3000
 
 app = koa()
 
-
 # prepare CHILD-PROC
 app.use (next) ->
 
   # TODO grab from pool or STUFF
-  this.hxNorm = hxNorm = spawn 'hxnormalize',['-e'], silent:yes
+  this.hxNorm = hxNorm = spawn 'hxnormalize', ['-e']
+
   hxNorm.on 'error', (err) ->
     console.error "hxNorn ERR:",err.message
     hxNorm.push null
-  hxNorm.on 'data', (d) ->
-    console.log 'd len',d.length
+
   hxNorm.on 'exit', (code,signal) ->
     console.log 'child',code,signal
 
@@ -28,14 +25,11 @@ app.use (next) ->
 # MAN HANDLER
 app.use ->
   this.body = this.req.pipe this.hxNorm
-  # _ this.req.pipe 
-  #  .through this.hxNorm
-  #  .pipe this.res
-  #  .errors (err,push) ->
-  #    console.error "ERROR in Stream:",err
-  #    push err
   yield return
+
+# TODO spawn more duplexes based on URI
+
 
 
 app.listen port
-console.log "Listening on #{port}"
+console.log "#{process.pid} listening on #{port}"

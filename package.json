@@ -12,9 +12,8 @@
   "author": "dynnamitt",
   "license": "ISC",
   "dependencies": {
+    "coffee-script": "^1.11.1",
     "duplex-child-process": "0.0.5",
-    "highland": "^2.10.1",
-    "highland-through-process": "^1.0.0",
     "koa": "^1.2.4"
   }
 }
